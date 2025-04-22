@@ -15,14 +15,14 @@ python irl.py
 
 
 
-![Standard IRL Results](irl.png)
+![Standard IRL Results](strategy_capture/irl.png)
 
 ### Gussian inverse IRL
 Run Standard IRL:
 ```bash
 python irl.py
 
-![Gaussian IRL Results](girl.png)
+![Gaussian IRL Results](strategy_capture/girl.png)
 
 
 
