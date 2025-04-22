@@ -22,7 +22,7 @@ Run Standard IRL:
 ```bash
 python irl.py
 
-![Gaussian IRL Results](strategy_capture/girl.png)
+![Gaussian IRL Results](https://github.com/MARESH001/Capturing-strategy-of-trader/blob/main/girl.png)
 
 
 
