@@ -3,7 +3,6 @@
 ## Performance Summary
 - **Gaussian Inverse Reinforcement Learning (GIRL)** is outperforming standard IRL.
 - **Accuracy achieved:** 92.0% 🎯
-- **Dataset:** Two images were used for validation.
 
 ## Visualizations
 
